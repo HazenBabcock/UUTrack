@@ -38,7 +38,7 @@ Once you have installed the package, you can run the following commands to bring
 ```
 
 ## Building the documentation
-The documentation of the program can be build locally and is available at http://uutrack.readthedocs.io. 
+The documentation of the program can be build locally and is available [here](http://uutrack.readthedocs.io).
 
 To build the documentation locally, you need to have sphinx installed. Go to the folder docs and run the following command:
 

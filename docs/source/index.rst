@@ -13,7 +13,7 @@ UUtracking is shipped as a package that can be installed into a virtual environm
 Installing
 ----------
 
-The best place to look for the code of the program is the repository at ``https://github.com/aquilesC/UUTrack``. If you need further assistance with the installation of the code, please check :ref:`installing`
+The best place to look for the code of the program is the repository at `github <https://github.com/aquilesC/UUTrack>`_. If you need further assistance with the installation of the code, please check :ref:`installing`
 
 Start the program
 -----------------
